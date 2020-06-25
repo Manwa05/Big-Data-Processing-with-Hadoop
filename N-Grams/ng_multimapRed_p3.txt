@@ -1,0 +1,10 @@
+in_the_$  	 33
+the_$_and  	 30
+and_the_$  	 11
+the_red_$  	 7
+the_dead_$  	 6
+the_$_is  	 6
+towards_the_$  	 5
+the_$_which  	 5
+that_the_$  	 5
+over_the_$  	 5

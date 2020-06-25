@@ -1,0 +1,10 @@
+of_the_$    	 111
+in_the_$    	 33
+from_the_$    	 32
+the_$_and    	 30
+to_the_$    	 27
+the_open_$    	 24
+the_$_of    	 21
+the_$_to    	 14
+outline_of_$    	 13
+by_the_$    	 12

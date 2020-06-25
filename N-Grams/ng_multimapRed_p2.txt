@@ -1,0 +1,10 @@
+of_the_$  	 111
+from_the_$  	 32
+to_the_$  	 27
+the_$_of  	 21
+by_the_$  	 12
+man_of_$  	 8
+element_of_$  	 8
+the_mediterranean_$  	 7
+$_of_the  	 7
+$_on_the  	 6
